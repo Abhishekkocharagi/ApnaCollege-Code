@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.btn-container{
+    display: flex;
+   justify-content: center;
+   
+}
+.btn{
+      height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 1.5rem;
+}
+.yellow{
+    background-color: yellowgreen;
+}
+.red{
+    background-color: brown;
+}
+.blue{
+    background-color: rgb(115, 115, 250);
+}
+.pink{
+    background-color: pink;
+}
